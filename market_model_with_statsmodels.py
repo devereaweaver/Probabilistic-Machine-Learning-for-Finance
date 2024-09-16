@@ -7,6 +7,7 @@ Created on Sat Sep 14 18:27:11 2024
 """
 
 # %%
+!pip install yfinance
 import statsmodels.api as sm
 import pandas as pd
 import yfinance as yf
