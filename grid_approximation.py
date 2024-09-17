@@ -96,6 +96,42 @@ plt.title('Posterior distribution of our model parameter')
 plt.show();
 
 
+#%%
+# TODO: Add the predictive prior probability distributions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
