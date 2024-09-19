@@ -4,8 +4,13 @@
 Created on Sat Sep 14 18:27:11 2024
 
 @author: devereweaver
-"""
 
+Market Model with statsmodels:
+    This is an example of building a conventional MLE-based market model using software.
+    An MLE-based model differs from a probabilistic model in that the former outputs a 
+    point estimate while the latter(?) is used to compute a probability distribution for 
+    our parameter.
+"""
 # %%
 !pip install yfinance
 import statsmodels.api as sm
